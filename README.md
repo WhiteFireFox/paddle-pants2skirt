@@ -12,8 +12,8 @@
 
 &emsp;&emsp;&emsp;<font size=4>本项目有两个版本：V1和V2，其中V2效果比V1好。</font>
 
-# 项目体验
+# 源代码
 
 &emsp;&emsp;&emsp;<font size=5>更完整更好的项目体验请访问AI Studio上作者的项目：</font><br><br>
-&emsp;&emsp;&emsp;&emsp;[V1](https://aistudio.baidu.com/aistudio/projectdetail/681367)<br><br>
-&emsp;&emsp;&emsp;&emsp;[V2](https://aistudio.baidu.com/aistudio/projectdetail/681367)
+&emsp;&emsp;&emsp;&emsp;<font size=5>版本1：</font>[V1](https://aistudio.baidu.com/aistudio/projectdetail/681367)<br><br>
+&emsp;&emsp;&emsp;&emsp;<font size=5>版本2：</font>[V2](https://aistudio.baidu.com/aistudio/projectdetail/681367)
